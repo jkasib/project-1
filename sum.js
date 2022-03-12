@@ -7,4 +7,4 @@ function sum(x, y){
 }
 
 let result = sum(a, b);
-console.log(result);
+console.log("The sum is: " + result);
